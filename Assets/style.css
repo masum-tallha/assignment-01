@@ -88,3 +88,36 @@ main section{
     border-radius: 48px;
     box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
 }
+.content-div-btn{
+    margin-top: 20px;
+}
+/* USP section */
+.usp-section{
+    background-color: rgba(78, 71, 255, 0.1);
+    border-radius: 24px;
+    padding: 50px 80px 50px 80px;
+    text-align: center;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.usp-box-title{
+    font-size: 38px;
+    font-weight: bold;
+}
+.usp-boxs{
+    display: flex;
+    gap: 158px;
+    justify-content: center;
+}
+.usp-title{
+    font-size: 80px;
+    font-weight: bold;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+.usp-description{
+    font-size: 20px;
+    color: rgba(0, 0, 0, 0.5);
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
