@@ -133,7 +133,6 @@ main section{
     color: rgba(0, 0, 0, 0.5);
     margin-bottom: 0px;
     margin-top: 0px;
-<<<<<<< HEAD
 }
 /* Testimonial Section */
 /* card 1 */
@@ -190,6 +189,28 @@ main section{
 .identity-subtitle{
     margin-top: 4px;
     color: #7575759c;
-=======
->>>>>>> c4b314bd8e4665936f6246c930743003de43aee9
+}
+
+/* last section */
+.last-section{
+    text-align: center;
+    padding: 70px 150px;
+    background-color: #ffffff;
+    border-radius: 14px;
+}
+.last-sec-title{
+    font-size: 50px;
+    font-weight: bold;
+    color: #000000;
+    margin-bottom: 0px;
+}
+.last-sec-description{
+    margin-top: 5px;
+    color: rgba(0, 0, 0, 0.5);
+}
+.last-sec-btn{
+    margin-bottom: 20px;
+}
+.last-section-img{
+    border-radius: 48px;
 }
