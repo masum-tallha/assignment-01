@@ -52,7 +52,10 @@ header{
     background-size: cover;
     background-repeat: no-repeat;
 }
-
+.header-logo{
+    font-size: 34px;
+    font-weight: bolder;
+}
 
 nav{
     display: flex;
