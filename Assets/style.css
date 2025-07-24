@@ -220,4 +220,35 @@ main section{
 .last-section-img{
     border-radius: 48px;
 }
+/* form style */
+.form-title-left{
+    font-size: 90px;
+    font-weight: bold;
+}
 
+
+.form-section{
+    display: flex;
+    gap: 116px;
+}
+.form-column{
+    width: 50%;
+}
+.form-column label{
+    display: block;
+    font-size: 16px;
+    color: #000000;
+}
+.form-section input[type="text"], .form-section input[type="email"], .form-section textarea{
+    height: 64px;
+    border-radius: 10px;
+    background-color: white;
+    display: block;
+    width: 100%;
+    padding: 14px 20px 14px 20px;
+    margin-bottom: 24px;
+    border: none;
+}
+.form-section label{
+    margin-bottom: 10px;
+}
