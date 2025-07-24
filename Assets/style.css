@@ -262,3 +262,8 @@ main section{
 .form-section label{
     margin-bottom: 10px;
 }
+.btn-form{
+    display: block;
+    width: 109%;
+    padding: 14px 20px 14px 20px;
+}
