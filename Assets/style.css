@@ -193,6 +193,7 @@ main section{
 
 /* last section */
 .last-section{
+    align-items: center;
     text-align: center;
     padding: 70px 150px;
     background-color: #ffffff;
