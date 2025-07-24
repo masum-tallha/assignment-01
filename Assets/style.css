@@ -267,3 +267,38 @@ main section{
     width: 109%;
     padding: 14px 20px 14px 20px;
 }
+/* Footer */
+footer{
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 105px 455px 105px 455px;
+}
+.footer-div{
+    padding: 0px 200px 0px 200px;
+}
+.footer-logo{
+    text-align: center;
+    margin: 0;
+    font-size: 100px;
+}
+.footer-description{
+    color: #8987A1;
+    font-size: 16px;
+    text-align: center;
+}
+.footer-menu ul {
+    display: flex;
+    justify-content: space-around; 
+    gap: 40px; 
+    list-style: none; 
+    padding: 0;
+    margin: 0;
+}
+.footer-menu li a {
+    text-decoration: none;
+    color: #8987A1; 
+    font-weight: 500;
+    font-size: 16px;
+}
