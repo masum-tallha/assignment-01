@@ -239,15 +239,25 @@ main section{
     font-size: 16px;
     color: #000000;
 }
-.form-section input[type="text"], .form-section input[type="email"], .form-section textarea{
-    height: 64px;
+.form-section input[type="text"], .form-section input[type="email"] {
+    height: 35px;
     border-radius: 10px;
     background-color: white;
     display: block;
     width: 100%;
     padding: 14px 20px 14px 20px;
     margin-bottom: 24px;
-    border: none;
+    border: 1px solid #D6DDED;
+}
+.form-section textarea{
+    height: 120px;
+    border-radius: 10px;
+    background-color: white;
+    display: block;
+    width: 100%;
+    padding: 14px 20px 14px 20px;
+    margin-bottom: 24px;
+    border: 1px solid #D6DDED;
 }
 .form-section label{
     margin-bottom: 10px;
