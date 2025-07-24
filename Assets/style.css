@@ -18,6 +18,11 @@
   font-variation-settings:
     "wdth" 100;
 }
+.text-align{
+    text-align: center;
+}
+
+
 /* Shared Style */
 .btn-primary{
     padding: 15px 40px 15px 40px;
